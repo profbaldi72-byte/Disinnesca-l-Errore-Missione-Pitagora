@@ -1,0 +1,6 @@
+{
+  "name": "Disinnesca l'Errore: Missione Pitagora",
+  "description": "Gioco didattico cooperativo a due ruoli per studenti di 12 anni sul Teorema di Pitagora, con visualizzatore geometrico interattivo, mappe reali, conto alla rovescia di 5 minuti e scenari IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
